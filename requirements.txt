@@ -1,0 +1,2 @@
+PyQt5==5.15.7
+requests_html==0.10.0
