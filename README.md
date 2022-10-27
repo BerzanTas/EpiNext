@@ -4,7 +4,7 @@
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/BerzanTas/EpiNext) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BerzanTas/EpiNext)
 
 
-### 🍿 You can use this code to quickly search for the new episode of your favourite TV series. You can also see the information (such as the airing date) about the latest episode.
+### 🍿 You can use this code to quickly search for the new episode of your favourite TV series. You can also see the information about the latest episode.
 
 **This python code scrapes the website every time you press "Search" button and gets the newest information about the episodes.**
 
