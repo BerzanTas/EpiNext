@@ -110,7 +110,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "New Episode Checker"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "EpiNext"))
         self.searchbutton.setText(_translate("MainWindow", "Search"))
         self.addButton.setText(_translate("MainWindow", "Add To List"))
         self.titleBox.setItemText(0, _translate("MainWindow", "Write or choose a title"))
